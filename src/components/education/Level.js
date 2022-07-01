@@ -100,7 +100,6 @@ const Image = styled("span")(({ theme }) => ({
   justifyContent: "center",
 
   color: theme.palette.common.white,
- 
 }));
 
 const ImageBackdrop = styled("span")(({ theme }) => ({
@@ -165,7 +164,7 @@ export default function Level() {
                 component="span"
                 variant="subtitle1"
                 sx={{
-                    position: "relative",
+                  position: "relative",
                   color: "#ccd6f6",
                   display: "flex",
                   alignItems: "start",

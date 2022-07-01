@@ -177,7 +177,7 @@ const BurgerButton = styled.button`
   width: 50px;
   height: 50px;
   color: rgb(102, 178, 255);
-  z-index: 1;
+  z-index:1;
   cursor: pointer;
 `;
 

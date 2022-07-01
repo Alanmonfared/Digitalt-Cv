@@ -77,6 +77,7 @@ const images = [
 const ImageButton = styled(ButtonBase)(({ theme }) => ({
   position: "relative",
   height: 200,
+  cursor: "default",
 
   ".n": {
     display: "none",
