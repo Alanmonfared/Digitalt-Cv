@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.12755796.css",
-    "main.js": "/app/static/js/main.a1477bdd.js",
-    "static/js/787.c1112931.chunk.js": "/app/static/js/787.c1112931.chunk.js",
-    "static/media/blueSmoke.mp4": "/app/static/media/blueSmoke.f5e49c1bbffdb1dcf7ec.mp4",
-    "static/media/alan-2.jpg": "/app/static/media/alan-2.2b3ec4ce67c0b5eac778.jpg",
-    "static/media/20180410_214001.jpg": "/app/static/media/20180410_214001.078a517594962aa5259f.jpg",
-    "static/media/imgbin_smoke-png.png": "/app/static/media/imgbin_smoke-png.2836efd8aa5ca4d78000.png",
-    "static/media/imgbin_portable-network-graphics-transparency-smoking-png.png": "/app/static/media/imgbin_portable-network-graphics-transparency-smoking-png.9dd64660305f8fdb8d1d.png",
-    "static/media/roboto-all-700-normal.woff": "/app/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
-    "static/media/roboto-latin-700-normal.woff2": "/app/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
-    "static/media/roboto-cyrillic-ext-700-normal.woff2": "/app/static/media/roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
-    "static/media/roboto-latin-ext-700-normal.woff2": "/app/static/media/roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
-    "static/media/roboto-cyrillic-700-normal.woff2": "/app/static/media/roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
-    "static/media/roboto-greek-700-normal.woff2": "/app/static/media/roboto-greek-700-normal.50e795c1345353b0e996.woff2",
-    "static/media/roboto-vietnamese-700-normal.woff2": "/app/static/media/roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
-    "static/media/roboto-greek-ext-700-normal.woff2": "/app/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
-    "index.html": "/app/index.html",
-    "static/media/getFetch.cjs": "/app/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.12755796.css.map": "/app/static/css/main.12755796.css.map",
-    "main.a1477bdd.js.map": "/app/static/js/main.a1477bdd.js.map",
-    "787.c1112931.chunk.js.map": "/app/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/static/css/main.6d0e6d9b.css",
+    "main.js": "/static/js/main.c4450d64.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/blueSmoke.mp4": "/static/media/blueSmoke.f5e49c1bbffdb1dcf7ec.mp4",
+    "static/media/alan-2.jpg": "/static/media/alan-2.2b3ec4ce67c0b5eac778.jpg",
+    "static/media/20180410_214001.jpg": "/static/media/20180410_214001.078a517594962aa5259f.jpg",
+    "static/media/imgbin_smoke-png.png": "/static/media/imgbin_smoke-png.2836efd8aa5ca4d78000.png",
+    "static/media/imgbin_portable-network-graphics-transparency-smoking-png.png": "/static/media/imgbin_portable-network-graphics-transparency-smoking-png.9dd64660305f8fdb8d1d.png",
+    "static/media/roboto-all-700-normal.woff": "/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
+    "static/media/roboto-latin-700-normal.woff2": "/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
+    "static/media/roboto-cyrillic-ext-700-normal.woff2": "/static/media/roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
+    "static/media/roboto-latin-ext-700-normal.woff2": "/static/media/roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
+    "static/media/roboto-cyrillic-700-normal.woff2": "/static/media/roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
+    "static/media/roboto-greek-700-normal.woff2": "/static/media/roboto-greek-700-normal.50e795c1345353b0e996.woff2",
+    "static/media/roboto-vietnamese-700-normal.woff2": "/static/media/roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
+    "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.6d0e6d9b.css.map": "/static/css/main.6d0e6d9b.css.map",
+    "main.c4450d64.js.map": "/static/js/main.c4450d64.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12755796.css",
-    "static/js/main.a1477bdd.js"
+    "static/css/main.6d0e6d9b.css",
+    "static/js/main.c4450d64.js"
   ]
 }
